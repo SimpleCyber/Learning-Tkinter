@@ -10,7 +10,7 @@ A simple app to view wallpapers in a folder and rotate through them using the "N
 **Output:**  
 | Application Screenshot |
 |-------------------------|
-| ![Wallpaper Viewer](output/wallpaper.png) |
+| <img src="output/wallpaper.png" alt="Wallpaper Viewer"  width="300"/> |
 
 ---
 
@@ -20,7 +20,7 @@ A basic calculator application supporting addition, subtraction, multiplication,
 **Output:**  
 | Application Screenshot |
 |-------------------------|
-| ![Calculator](output/calci.png) |
+| <img src="output/calci.png" alt="Calculator" width="300"/> |
 
 ---
 
@@ -30,7 +30,7 @@ Fetches the latest news using the NewsAPI and displays news headlines, descripti
 **Output:**  
 | Application Screenshot |
 |-------------------------|
-| ![News Application](output/news.png) |
+| <img src="output/news.png" alt="News Application" width="300"/> |
 
 ---
 
